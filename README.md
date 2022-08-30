@@ -29,9 +29,6 @@ No distribution exists on PyPI yet. To use the code now, you can install it dire
 `>>> pip install git+https://github.com/blockchaindev91/python-simple-HOHMM.git`  
 Take a look at the documentation to view all methods of installation.  
 
-#### Documentation  
-[Documentation](http://simple-hohmm.readthedocs.io/en/latest/?badge=latest) consisting of API reference and basic tutorials is live but the API reference not been developed yet. The tutorials there should get you up and running in the general use cases.  
-
 ## Contributions
 Contributions are welcome. We have not hashed out exactly what that will look like yet. For now, feel free to fork the repository and dive in as you see fit, whether that is making/improving documentation, tutorials, test cases, issues, or source code. Contributors should have all dependencies installed from `requirements.txt`. This can be done using:  
  `>>> pip install -r requirements.txt`
