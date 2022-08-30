@@ -1,9 +1,5 @@
 # Simple-HOHMM  
 
-[![Build Status](https://travis-ci.org/jacobkrantz/Simple-HOHMM.svg?branch=master)](https://travis-ci.org/jacobkrantz/Simple-HOHMM)
-[![Coverage Status](https://coveralls.io/repos/github/jacobkrantz/Simple-HOHMM/badge.svg?branch=master)](https://coveralls.io/github/jacobkrantz/Simple-HOHMM?branch=master)
-[![Documentation Status](https://readthedocs.org/projects/simple-hohmm/badge/?version=latest)](http://simple-hohmm.readthedocs.io/en/latest/?badge=latest)  
-
 Simple-HOHMM is an end-to-end sequence classifier using Hidden Markov Models. Let the builder construct a model for you based on chosen model attributes. Now you can solve the classic problems of HMMs: evaluating, decoding, and learning. Play with different orders of history to maximize the accuracy of your model!
 
 ## General
@@ -30,7 +26,7 @@ This project is currently written in pure python code with zero dependencies for
 
 #### Installing Simple-HOHMM
 No distribution exists on PyPI yet. To use the code now, you can install it directly from the repository:  
-`>>> pip install git+https://github.com/jacobkrantz/Simple-HOHMM.git`  
+`>>> pip install git+https://github.com/blockchaindev91/python-simple-HOHMM.git`  
 Take a look at the documentation to view all methods of installation.  
 
 #### Documentation  

@@ -7,18 +7,18 @@ Installation for Python 2 or 3
 ``Simple-HOHMM`` can be installed directly from Github using ``pip``. You must have ``git`` installed for this process to work.
 ::
 
-	>>> pip install git+https://github.com/jacobkrantz/Simple-HOHMM.git
+	>>> pip install git+https://github.com/blockchaindev91/python-simple-HOHMM.git
 
 If you want the most recent staging build:
 ::
 
-	>>> pip install git+https://github.com/jacobkrantz/Simple-HOHMM.git@staging
+	>>> pip install git+https://github.com/blockchaindev91/python-simple-HOHMM.git@staging
 
 Alternative: to view the source code and run the tests before installation:
 ::
 
-	>>> git clone https://github.com/jacobkrantz/Simple-HOHMM.git
-	>>> cd Simple-HOHMM
+	>>> git clone https://github.com/blockchaindev91/python-simple-HOHMM.git
+	>>> cd python-simple-HOHMM
 	>>> python setup.py test
 	>>> python setup.py install
 
@@ -28,7 +28,7 @@ Installation for Pypy
 For usage with ``pypy``, you must install with ``pip`` inside ``pypy``:
 ::
 
-	>>> pypy -m pip install git+https://github.com/jacobkrantz/Simple-HOHMM.git
+	>>> pypy -m pip install git+https://github.com/blockchaindev91/python-simple-HOHMM.git
 
 If this fails, try installing ``pip`` for ``pypy`` first:
 ::
@@ -39,9 +39,9 @@ If this fails, try installing ``pip`` for ``pypy`` first:
 If you want the most recent staging build still with ``pypy``:
 ::
 
- 	>>> pypy -m pip install git+https://github.com/jacobkrantz/Simple-HOHMM.git@staging
+ 	>>> pypy -m pip install git+https://github.com/blockchaindev91/python-simple-HOHMM.git@staging
 
 Alternative staging branch with ``pypy``:
 ::
 
-	>>> sudo pypy -m pip install --upgrade https://github.com/jacobkrantz/Simple-HOHMM/archive/staging.zip
+	>>> sudo pypy -m pip install --upgrade https://github.com/blockchaindev91/python-simple-HOHMM/archive/staging.zip
